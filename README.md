@@ -23,9 +23,9 @@ Based on code by [Christophe Rigon](https://www.kaggle.com/datacog314/tutorial-m
 + matplotlib (3.0.3)
 + pandas (0.24.2)
 + seaborn (0.9.0)
-**+ Keras (2.2.4)**
-**+ xgboost (0.90)**
-**+ shap (0.29.3)**
++ Keras (2.2.4)
++ xgboost (0.90)
++ shap (0.29.3)
 
 ## License
 [Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
